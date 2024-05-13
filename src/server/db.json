@@ -1,0 +1,114 @@
+{
+    "guitars": [
+    {
+        "id": "1",
+        "img": "img/fender1.webp",
+        "title": "Електрогітари FENDER AMERICAN PERFORMER STRATOCASTER MN SATIN LAKE PLACID BLUE",      
+        "brand": "Fender",
+        "numberStrings": "6",
+        "color": "блакитний",
+        "type": "електрогітара",
+        "country": "США",
+        "price": "75000"
+    },
+    {
+        "id": "2",
+        "img": "img/fender2.webp",
+        "title": "Електрогітара Fender Custom Shop Limited Edition '55 Telecaster Journeyman Relic Natural Blonde",      
+        "brand": "Fender",
+        "numberStrings": "6",
+        "color": "дерево",
+        "type": "електрогітара",
+        "country": "США",
+        "price": "215000"
+    },
+    {
+        "id": "3",
+        "img": "img/fender3.png",
+        "title": "Електрогітара Fender PLAYER STRATOCASTER PF 3TS",      
+        "brand": "Fender",
+        "numberStrings": "6",
+        "color": "жовто-коричневий",
+        "type": "електрогітара",
+        "country": "Мексика",
+        "price": "43000"
+    },
+    {
+        "id": "4",
+        "img": "img/ibanez1.webp",
+        "title": "Гітара акустична Ibanez AEG7MH-OPN",      
+        "brand": "Ibanez",
+        "numberStrings": "6",
+        "color": "дерево",
+        "type": "акустична",
+        "country": "Китай",
+        "price": "11800"
+    },
+    {
+        "id": "5",
+        "img": "img/ibanez2.png",
+        "title": "Електрогітара Ibanez GRX120SP-MLM",      
+        "brand": "Ibanez",
+        "numberStrings": "6",
+        "color": "блакитний",
+        "type": "електрогітара",
+        "country": "Китай",
+        "price": "10000"
+    },
+    {
+        "id": "6",
+        "img": "img/ibanez3.webp",
+        "title": "Укулеле IBANEZ UKS100-OPN",      
+        "brand": "Ibanez",
+        "numberStrings": "4",
+        "color": "дерево",
+        "type": "укулеле",
+        "country": "Гаваї",
+        "price": "5000"
+    },
+    {
+        "id": "7",
+        "img": "img/ibanez4.webp",
+        "title": "Електрогітара Ibanez RG450DXB WH",      
+        "brand": "Ibanez",
+        "numberStrings": "6",
+        "color": "білий",
+        "type": "електрогітара",
+        "country": "США",
+        "price": "25000"
+    },
+    {
+        "id": "8",
+        "img": "img/yamaha1.png",
+        "title": "Гітара класична Yamaha C40",      
+        "brand": "Yamaha",
+        "numberStrings": "6",
+        "color": "дерево",
+        "type": "акустична",
+        "country": "Індонезія",
+        "price": "5300"
+    },
+    {
+        "id": "9",
+        "img": "img/yamaha2.webp",
+        "title": "Електрогітара YAMAHA PACIFICA 112J (OVS)",      
+        "brand": "Yamaha",
+        "numberStrings": "6",
+        "color": "жовто-коричневий",
+        "type": "електрогітара",
+        "country": "Індонезія",
+        "price": "15000"
+    },
+    {
+        "id": "10",
+        "img": "img/yamaha3.webp",
+        "title": "Гітара акустична Yamaha JR1 Natural",      
+        "brand": "Yamaha",
+        "numberStrings": "6",
+        "color": "дерево",
+        "type": "акустична",
+        "country": "Китай",
+        "price": "7000"
+    }
+  ]
+}
